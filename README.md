@@ -1,11 +1,10 @@
 # Algorithm-study
-# 현재 README 수정중에 있습니다!
 
 ## Development environment
 * Programming Language
     * C/C++
 * IDE
-    * Visual Studio 2017 or 2019
+    * Visual Studio 2017/2019
 * Algorithm Site
     * Baekjoon Online Judge: [https://www.acmicpc.net/](https://www.acmicpc.net/)
     * Weekly vita-algo: [https://edu.goorm.io/](https://edu.goorm.io/lecture/15551/%25ED%2594%2584%25EB%25A6%25AC%25EB%25AF%25B8%25EC%2597%2584-%25EC%2595%258C%25EA%25B3%25A0%25EB%25A6%25AC%25EC%25A6%2598-%25EC%258B%259C%25EC%25A6%258C2-%25EC%259C%2584%25ED%2581%25B4%25EB%25A6%25AC-%25EB%25B9%2584%25ED%2583%2580%25EC%2595%258C%25EA%25B3%25A0-%25EC%259E%2585%25EB%25AC%25B8%25ED%258E%25B8)
@@ -41,7 +40,13 @@
 
 ---
 
-## ((날짜 적기))
+## 2020.06.05 ~ 2020.06.06
 ### 코드 공유를 위한 Github 환경설정 
-* A+B 출력 문제를 통한 환경설정 Test 
-    * [https://www.acmicpc.net/problem/1000](https://www.acmicpc.net/problem/1000)
+* A+B 출력 문제를 통한 환경설정 Test
+* Hello World 출력 문제를 통한 환경설정 Test
+
+## (이후 날짜)
+### (파트 이름)
+...
+...
+...
